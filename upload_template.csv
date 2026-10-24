@@ -1,0 +1,2 @@
+date,building,electricity_kwh,water_m3,waste_kg,data_status
+2026-10-01,Example Building,120.5,4.2,18.0,MEASURED — SOURCE: meter/log reference
